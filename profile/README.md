@@ -1,4 +1,4 @@
-## Hi there 👋
+## Executive Summary
 
 <!--
 
@@ -10,6 +10,24 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+# Navisatya Consign Store
+
+Navisatya Consign Store merupakan platform e-commerce public yang bisa digunakan untuk jual beli barang. Sejauh ini, produk yang terdaftar hanya smartphone, namun tidak menutup kemungkinan akan ada jenis produk lainnya.
+Di dalam Proyek ini, kami menggunakan 4 database:
+
+- Graph Database (Neo4J)
+ > Graph database digunakan untuk menampilkan rekomendasi produk berdasarkan ranking antutu score setiap produk. Fitur rekomendasi ini sementara hanya bekerja untuk categori produk *smartphone*.
+ 
+- Document Database(mongoDB)
+ > Document Database digunakan untuk halaman transaction dan *checkout*.
+ 
+- Key-Value Database (redis)
+ > Key Value Database digunakan untuk bagian keranjang atau *cart*. Key nya merupakan product ID dan valuenya berisi nama *product*, *stock*, *quantity*, dan harga.
+ 
+- RDBMS (MySQL)
+ > RDBMS digunakan untuk menyimpan semua data produk yang akan ditampilkan di katalog platform.
+
+API dibangun menggunakan framework **Flask** dan framework yang digunakan untuk pembuatan website Navisatya Consign Store adalah **Laravel**.
 
 
 
