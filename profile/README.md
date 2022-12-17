@@ -11,8 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+
+
 ## Member Kelompok 2 TBD A :
 |No.|Nama|NRP|
+|--|--------------------------|-----------------|
 |1.| Isna Aulia Fadilla Norsi | 05211940000006
 |2.| Muhammad Alif Amri Muzammil | 05211940000032
 |3.| Indira Salsabila Ardan | 05211940000046
