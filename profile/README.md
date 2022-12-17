@@ -1,4 +1,11 @@
-## Executive Summary
+# Executive Summary
+
+Demo Website : `https://nav-consign-market-farrelarrizal.vercel.app/`
+
+Demo API DB: `https://formal-audio-370910.as.r.appspot.com/`
+
+_Seluruh server akan dinonaktifkan tanggal 30 Desember mengingat biaya Google Server yang cukup mahal_
+
 
 <!--
 
@@ -46,3 +53,7 @@ API dibangun menggunakan framework **Flask** dan framework yang digunakan untuk 
 |10.| Evan Raditya | 05211940000139
 |11.| Lidiya Yuniarti | 05211940007001
 |12.| Alexander Nicolas Wonoadi | 05211942000008
+
+
+
+
